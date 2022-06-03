@@ -15,7 +15,7 @@ technology …
 
 
 
-    First, we may use the following steps to brainstorm ideas behind the project :
+ * First, we may use the following steps to brainstorm ideas behind the project :
 
 ### State the problem
 
