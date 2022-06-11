@@ -1,6 +1,6 @@
 # Simple-Binary-Coded-Decimal-Decoder-Implementation-using-CMOS-technology
 Simple Binary Coded Decimal  Decoder Implementation using  CMOS technology - Custom design using Cadence virtuoso & (*TCMC65nm*)
-
+** virtuoso files will be available after evaluation ,
 ### Introduction
 
 ![image](https://user-images.githubusercontent.com/66570093/171924942-221c0263-ae92-414c-b633-e71b7b8ed10b.png)
@@ -67,7 +67,7 @@ BCD Decoder Implementation
 
 
  
-# note: we used x to denote to dontcare .
+#### note: we used x to denote to dontcare .
 𝑎𝑎 ′= 𝐴𝐴′𝐵𝐵′𝐶𝐶′𝐷𝐷+𝐵𝐵𝐵 ′𝐷𝐷′ 𝑏𝑏 ′=𝐵𝐵(𝐶𝐶′+𝐷𝐷′).(𝐶𝐶+𝐷𝐷) 𝑐𝑐 ′=𝐵𝐵′𝐶𝐶𝐶 ′ 𝑑𝑑 ′=𝐴𝐴′𝐵𝐵′𝐶𝐶′𝐷𝐷+𝐵𝐵𝐵 +𝐵𝐵𝐶𝐶′𝐷𝐷′
 e ′= D+BC'
 f ′= CB' +CD+A'B'D
