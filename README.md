@@ -1,9 +1,13 @@
-![image](https://user-images.githubusercontent.com/66570093/171924942-221c0263-ae92-414c-b633-e71b7b8ed10b.png)
 
 # Simple-Binary-Coded-Decimal-Decoder-Implementation-using-CMOS-technology
+
+
+![image](https://user-images.githubusercontent.com/66570093/171924942-221c0263-ae92-414c-b633-e71b7b8ed10b.png)
+
 Simple Binary Coded Decimal  Decoder Implementation using  CMOS technology - Custom design using Cadence virtuoso & (*TCMC65nm*)
 
-** virtuoso files will be available after evaluation ,
+
+#######################** virtuoso files will be available after evaluation ,
 
 ### Introduction
 
@@ -69,7 +73,8 @@ n | **A**| **B**| **C**| **D**| **a**| **b**| **c** | **d**| **e**| **f**| **g**
 **15**| 1| 1| 1| 1| X| X| X| X| X| X| X
 
 
-########## 
+
+## functions:
 
  
 #### 𝑎′ = 𝐴𝐴′𝐵𝐵′𝐶𝐶′𝐷𝐷+𝐵𝐵𝐵 ′𝐷𝐷′
@@ -83,10 +88,10 @@ n | **A**| **B**| **C**| **D**| **a**| **b**| **c** | **d**| **e**| **f**| **g**
 
 
 
-#### 
+ 
 ##### note: we used x to denote to dontcare .
 
-•	Circuit diagram (using cadence virtuoso) :-  
+## •	Circuit diagram (using cadence virtuoso) :-  
 
 
 ![image](https://user-images.githubusercontent.com/66570093/171925795-f6fc76d0-f08f-4842-9ad0-90f885ec36dc.png)
@@ -95,7 +100,7 @@ n | **A**| **B**| **C**| **D**| **a**| **b**| **c** | **d**| **e**| **f**| **g**
 
 
 
-•	Final test bench:
+## •	Final test bench:
 •	Here we use 
 -	Vdc =1.2v (according to technology used) 
 -	4* Vpluse
@@ -110,7 +115,8 @@ Then RUN trans Simulation 20 seconds & plot input verses the output!
 ![image](https://user-images.githubusercontent.com/66570093/171926629-46c99638-5e57-45ff-afd7-9eb92d17f117.png)
 
 
-•	Run trans simulation for testing : (CSV file s available on our drive)
+•	Run trans simulation for testing : 
+##### (CSV file s available on our drive)
 
 ![image](https://user-images.githubusercontent.com/66570093/171926682-b27ccf6a-6d97-4841-a3d8-ece0a94279eb.png)
 
@@ -125,7 +131,7 @@ Then RUN trans Simulation 20 seconds & plot input verses the output!
 
 
 
-•	Full IC Layout :
+## •	Full IC Layout :
 
 
 Final area used was around .. (27.4*26.2) um 
