@@ -7,7 +7,7 @@
 Simple Binary Coded Decimal  Decoder Implementation using  CMOS technology - Custom design using Cadence virtuoso & (*TCMC65nm*)
 
 
-#######################** virtuoso files will be available after evaluation ,
+##### virtuoso files will be available after evaluation ,
 
 ### Introduction
 
